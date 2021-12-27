@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-position: center;
+	background-size: cover;
+}
+
+#CanvasOfcircle{
+	border-width: 20px;
+	border-style: outset;
+	background-color: chocolate;
+	border-color: rgb(0, 0, 0);
+}
